@@ -1,0 +1,5 @@
+## Third-Party Licenses
+
+This project uses icons from the [Kubernetes Community](https://github.com/kubernetes/community/) repository, which are licensed under the Apache License 2.0.
+
+The icons are included in this project as a git submodule. For detailed license information, please refer to the [LICENSE file in the Kubernetes Community repository](https://github.com/kubernetes/community/blob/master/LICENSE).

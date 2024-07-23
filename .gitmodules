@@ -1,0 +1,3 @@
+[submodule "kubernetes-community"]
+	path = kubernetes-community
+	url = https://github.com/kubernetes/community.git
